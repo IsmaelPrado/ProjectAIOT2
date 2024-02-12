@@ -14,6 +14,7 @@
 ## Lista del Hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo Total |
 |----|------------|-------------|--------|----------|-------------|
+|    |            |             |        |          |             |
 
 ## Lista de Software utilizado
 | Id | Software | Versión | Tipo |
