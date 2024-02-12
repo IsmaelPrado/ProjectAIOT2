@@ -1,4 +1,4 @@
-# Nombre del proyecto
+# SEXMEX
 
 ## Integrantes
 - Lista de los integrantes (Nombre completo y Numero de control)
