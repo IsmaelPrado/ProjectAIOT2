@@ -1,4 +1,4 @@
-# Biometry Lack
+# Biometry Lock
 
 ## Integrantes
 - Hernández López Gerardo - 1222100437
