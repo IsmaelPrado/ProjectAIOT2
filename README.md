@@ -1,4 +1,4 @@
-# Biometry Lack
+# PulgiPerry's 
 
 ## Integrantes
 - Hernández López Gerardo - 1222100437
@@ -75,7 +75,9 @@ Referencia:
 
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|    |                     |           |            |               |             |
+|    | Como usuario autorizado, quiero poder registrar mi rostro en el sistema para obtener acceso al área restringida.
+
+                    |           |            |               |             |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 
