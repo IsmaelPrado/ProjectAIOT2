@@ -1,4 +1,4 @@
-# PulgiPerry's 
+# Biometry Lack
 
 ## Integrantes
 - Hernández López Gerardo - 1222100437
