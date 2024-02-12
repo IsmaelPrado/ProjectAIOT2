@@ -75,7 +75,7 @@ Referencia:
 
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|    |                     |           |            |               |             |
+|    | Como usuario autorizado, quiero poder registrar mi rostro en el sistema para obtener acceso al área restringida.                    |           |            |               |             |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 
