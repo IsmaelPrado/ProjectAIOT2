@@ -1,7 +1,9 @@
-# SEXMEX
+# PulgiPerry's 
 
 ## Integrantes
-- Lista de los integrantes (Nombre completo y Numero de control)
+- Hernández López Gerardo - 1222100437
+- Manuel Martínez Jassiel Noe - 1222100440
+- Prado Salazar Cristian Ismael - 1222100451
 
 ## Carta de liberación del proyecto
 - Dirigida al Docente
